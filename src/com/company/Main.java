@@ -151,5 +151,7 @@ public class Main {
 
         }
         System.out.println(k);
+
+        System.out.println(k);
     }
 }
